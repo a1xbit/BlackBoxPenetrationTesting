@@ -4,7 +4,7 @@
 This project demostrates Black Box Penetration Testing which does not have any previous knowledge of the layout or machines. It is conducted within an isolated virtual environment that was not connected to the internet. The exploit that was used on this virtual machine is CVE-2017-0143 or eternalBlue which is a Microsoft Windows Server Message Block (SMBv1) Remote Code Execution Vulnerability. 
 
 
-<h2>Environments Used </h2>
+<h2>Testing Environment Used </h2>
 
 - <b>Kali Linux</b>
 - <b>Windows Server 2008 R2</b>
