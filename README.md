@@ -1,7 +1,7 @@
 <h1>Black Box Penetration Testing</h1>
 
 <h2>Description</h2>
-This project demostrates Black Box Penetration Testing which does not have any previous knowledge of the layout or machines. It is conducted within an isolated virtual environment that was not connected to the internet. The exploit that was used on this virtual machine is CVE-2017-0143 or eternalBlue which is a Microsoft Windows Server Message Block (SMBv1) Remote Code Execution Vulnerability. 
+This project demostrates Black Box Penetration Testing which assumes that there is no previous knowledge of the layout or machines. It is conducted within an isolated virtual environment that was not connected to the internet. The exploit that was used on this virtual machine is CVE-2017-0143 or eternalBlue which is a Microsoft Windows Server Message Block (SMBv1) Remote Code Execution Vulnerability. This project is intended to educate and shed light on the vulnerabilities within an unpatched computer system.
 
 
 <h2>Testing Environment Used </h2>
